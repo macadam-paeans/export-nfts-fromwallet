@@ -1,0 +1,39 @@
+{
+  "name": "export-nfts-fromwallet",
+  "version": "1.0.0",
+  "description": "Boost your NFT export capabilities with a tool for exporting NFTs from wallets securely and efficiently.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/macadam-paeans/export-nfts-fromwallet"
+  },
+  "author": "macadam-paeans",
+  "license": "MIT",
+  "dependencies": {
+    "export-nfts-fromwallet": "1.0.0",
+    "export-nfts-fromwallet-plus": "1.0.0",
+    "ethers": "1.0.0",
+    "dotenv": "1.0.0",
+    "chalk": "1.0.0",
+    "lodash": "1.0.0",
+    "react": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "body-parser": "1.0.0",
+    "passport": "1.0.0",
+    "mysql": "1.0.0",
+    "cheerio": "1.0.0",
+    "mocha": "1.0.0",
+    "mongoose": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "xml2js": "1.0.0",
+    "babel-core": "1.0.0",
+    "node-sass": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "web3": "1.0.0",
+    "redux": "1.0.0",
+    "axios": "1.0.0"
+  }
+}
